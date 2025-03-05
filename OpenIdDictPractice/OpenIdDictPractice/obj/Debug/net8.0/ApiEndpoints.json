@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "OpenIdDictPractice.Controllers.AuthorizationController",
+    "Method": "Exchange",
+    "RelativePath": "connect/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
